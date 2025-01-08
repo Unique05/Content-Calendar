@@ -1,0 +1,12 @@
+com\unique05\content_calendar\config\DataLoader$1.class
+com\unique05\content_calendar\model\Status.class
+com\unique05\content_calendar\repository\ContentCollectionRepository.class
+com\unique05\content_calendar\controller\HomeController.class
+com\unique05\content_calendar\config\ContentCalendarProperties.class
+com\unique05\content_calendar\config\DataLoader.class
+com\unique05\content_calendar\controller\ContentController.class
+com\unique05\content_calendar\Application.class
+com\unique05\content_calendar\config\MyWebConfig.class
+com\unique05\content_calendar\model\Type.class
+com\unique05\content_calendar\model\Content.class
+com\unique05\content_calendar\repository\ContentRepository.class
