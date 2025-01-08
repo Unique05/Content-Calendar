@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.unique05.content_calendar.ContentCalendarApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.80 s -- in com.unique05.content_calendar.ContentCalendarApplicationTests
